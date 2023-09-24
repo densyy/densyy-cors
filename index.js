@@ -10,4 +10,4 @@ function densyyCors (req, res, next) {
   next()
 }
 
-module.exports = { densyyCors }
+module.exports = densyyCors
